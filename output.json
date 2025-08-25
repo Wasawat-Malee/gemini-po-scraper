@@ -5,10 +5,10 @@
         "tax_id": "0107553000079"
     },
     "po_number": "1032056079",
-    "payment term": "60 วัน",
+    "payment term": "60",
     "items": [
         {
-            "item_number": 41150001662412,
+            "item_number": 1,
             "Receipt Qty": 2800,
             "Oder Unit": null,
             "Location": null
