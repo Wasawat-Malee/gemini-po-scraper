@@ -1,8 +1,8 @@
 {
     "company_info": {
-        "name": "ASA BOXBOARD CONTAINER COMPANY LIMITED",
-        "address": "99/1 หมู่ 5 ตำบลบางกระสั้น อำเภอบางปะกง จังหวัดฉะเชิงเทรา 24130",
-        "tax_id": "0745530000251"
+        "name": "มาลี กรุ๊ป ปับลิค จำกัด (มหาชน)",
+        "address": "267 หมู่ 4 ตำบลศาลายา อำเภอพุทธมณฑล จังหวัดนครปฐม 73170",
+        "tax_id": null
     },
     "po_number": "1032056079",
     "items": [
@@ -11,8 +11,8 @@
             "description": "CARTON FUJII 24/500ml NATURAL ASA -New AW",
             "quantity": 400000,
             "unit": "EA",
-            "unit_price": null,
-            "total": null
+            "unit_price": 10.33,
+            "total": 4132000
         },
         {
             "item_number": "41150001662412",
@@ -23,52 +23,36 @@
             "total": 103300
         },
         {
-            "item_number": "4115000166139",
-            "description": "CARTON FUJII 12/1500ML NATURAL ASA -New AW",
+            "item_number": "41150001662412",
+            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
+            "quantity": 10000,
+            "unit": "EACH",
+            "unit_price": 10.33,
+            "total": 103300
+        },
+        {
+            "item_number": "41150001662412",
+            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
+            "quantity": 10000,
+            "unit": "EACH",
+            "unit_price": 10.33,
+            "total": 103300
+        },
+        {
+            "item_number": "41150001662412",
+            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
+            "quantity": 10000,
+            "unit": "EACH",
+            "unit_price": 10.33,
+            "total": 103300
+        },
+        {
+            "item_number": "41150001662412",
+            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
             "quantity": 1000,
             "unit": "EACH",
             "unit_price": 7.32,
             "total": 7320
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500ml TASTY ASA -New AW",
-            "quantity": 10000,
-            "unit": "EACH",
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": null,
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": null,
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": null,
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": null,
-            "unit_price": 10.33,
-            "total": 103300
         }
     ]
 }
