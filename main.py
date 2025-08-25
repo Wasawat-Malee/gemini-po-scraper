@@ -46,7 +46,7 @@ def convert_pdf_to_images(pdf_path):
 def analyze_images_with_gemini(images, prompt):
     """ส่งรูปภาพและ Prompt ไปให้ Gemini วิเคราะห์"""
     print("กำลังส่งข้อมูลให้ Gemini API วิเคราะห์...")
-    model = genai.GenerativeModel('gemini-2.5-flash-latest') # หรือ gemini-pro-vision  gemini-1.5-flash-latest
+    model = genai.GenerativeModel('gemini-1.5-flash-latest') # หรือ gemini-pro-vision  gemini-1.5-flash-latest
     
     # สร้าง content ที่จะส่งไป โดยใส่ prompt ก่อนแล้วตามด้วยรูปภาพทั้งหมด
     content_parts = [prompt] + images
@@ -115,6 +115,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
