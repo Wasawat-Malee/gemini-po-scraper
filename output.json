@@ -1,58 +1,17 @@
 {
     "company_info": {
-        "name": "มาลี กรุ๊ป ปับลิค จำกัด (มหาชน)",
-        "address": "267 หมู่ 4 ตำบลศาลายา อำเภอพุทธมณฑล จังหวัดนครปฐม 73170",
-        "tax_id": null
+        "supplier No.": "ASA BOXBOARD CONTAINER COMPANY LIMITED.",
+        "address supplier": "99/1 หมู่ที่ 5 ถนนเลี่ยงเมือง 2 ตำบลบางพูด อำเภอเมืองปทุมธานี จังหวัดปทุมธานี 12000",
+        "tax_id": "0745530000251"
     },
     "po_number": "1032056079",
+    "payment term": null,
     "items": [
         {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500ml NATURAL ASA -New AW",
-            "quantity": 400000,
-            "unit": "EA",
-            "unit_price": 10.33,
-            "total": 4132000
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": "EACH",
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": "EACH",
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": "EACH",
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 10000,
-            "unit": "EACH",
-            "unit_price": 10.33,
-            "total": 103300
-        },
-        {
-            "item_number": "41150001662412",
-            "description": "CARTON FUJII 24/500 ML NATURAL ASA",
-            "quantity": 1000,
-            "unit": "EACH",
-            "unit_price": 7.32,
-            "total": 7320
+            "item_number": 41150001662412,
+            "Receipt Qty": 10000,
+            "Oder Unit": "EACH",
+            "Location": 8001
         }
     ]
 }
