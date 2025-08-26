@@ -8,9 +8,9 @@
     "payment term": "60",
     "items": [
         {
-            "item_number": 41150001662412,
+            "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": null,
+            "Oder Unit": "null",
             "Location": null
         }
     ]
