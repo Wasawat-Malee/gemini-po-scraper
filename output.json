@@ -1,14 +1,14 @@
 {
     "company_info": {
-        "supplier No.": "บริษัท เอเอสเอ บ๊อกซ์บอร์ด คอนเทนเนอร์ จำกัด\nASA BOXBOARD CONTAINER COMPANY LIMITED.",
-        "address supplier": "99/1 หมู่ที่ 5 ถนนพระรามที่ 2 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000",
+        "supplier No.": null,
+        "address supplier": "บริษัท เอเอสเอ บ๊อกซ์บอร์ด คอนเทนเนอร์ จำกัด\nASA BOXBOARD CONTAINER COMPANY LIMITED.\n99/1 หมู่ที่ 5 ถนนพระรามที่ 2 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000\nโทร. 034 880-132-7 แฟกซ์: 034 880263, 034 422699",
         "tax_id": "0107553000079"
     },
     "po_number": "1032056079",
     "payment term": "60",
     "items": [
         {
-            "item_number": 1,
+            "item_number": 41150001662412,
             "Receipt Qty": 2800,
             "Oder Unit": null,
             "Location": null
