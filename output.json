@@ -1,8 +1,8 @@
 {
     "company_info": {
-        "supplier No.": "MLEP",
-        "address supplier": "บริษัท มาลีกรุ๊ป จำกัด (มหาชน) (สาขาที่00001)\nเลขที่ 26/1 หมู่5 ถนนทางเข้าอำเภอลาดหลุมแก้ว ตำบลบ่อทอง อำเภอลาดหลุมแก้ว จังหวัดปทุมธานี",
-        "tax_id": "0107535000079"
+        "supplier No.": null,
+        "address supplier": "บริษัท เอเอสเอ บ๊อกซ์บอร์ด คอนเทนเนอร์ จำกัด\nASA BOXBOARD CONTAINER COMPANY LIMITED.\n99/1 หมู่ที่ 2 ต.ทรายพาด อ.บางกระทุ่ม จ.พิษณุโลก 65000\nโทร. 034 880-132-7 แฟ็กซ์: 034 880263, 034 422699",
+        "tax_id": "0107553000079"
     },
     "po_number": "1032056079",
     "payment term": "60",
@@ -10,7 +10,7 @@
         {
             "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": null,
+            "Oder Unit": "ลัง",
             "Location": null
         }
     ]
