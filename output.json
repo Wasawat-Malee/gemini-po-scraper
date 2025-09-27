@@ -10,7 +10,7 @@
         {
             "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": null,
+            "Oder Unit": "null",
             "Location": null
         }
     ]
