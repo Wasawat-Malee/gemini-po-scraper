@@ -5,7 +5,7 @@
         "tax_id": "0107535000079"
     },
     "po_number": "1032056079",
-    "payment term": "60",
+    "payment term": 60,
     "items": [
         {
             "item_number": 1,
