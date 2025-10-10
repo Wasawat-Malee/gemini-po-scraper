@@ -1,16 +1,16 @@
 {
     "company_info": {
         "supplier No.": "MLEP",
-        "address supplier": "บริษัท มาลีกรุ๊ป จำกัด (มหาชน) (สาขาที่ 00001) \nเลขที่ 26/1 หมู่5 ถนนหนทางเข้าอำเภอสามพราน ตำบลยายชา อำเภอสามพราน จังหวัดนครปฐม",
+        "address supplier": "บริษัท มาลีกรุ๊ป จำกัด (มหาชน) (สาขาที่00001)\nเลขที่ 26/1 หมู่5 ถนนหนทางเข้าอำเภอสามพราน ตำบลยายชา อำเภอสามพราน จังหวัดนครปฐม",
         "tax_id": "0107535000079"
     },
     "po_number": "1032056079",
-    "payment term": "60",
+    "payment term": 60,
     "items": [
         {
             "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": null,
+            "Oder Unit": "ML.EP-247-3\n41150001662412 CARTON FUJI 24/500 ML NATURAL ASA",
             "Location": null
         }
     ]
