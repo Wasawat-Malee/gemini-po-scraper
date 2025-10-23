@@ -1,7 +1,7 @@
 {
     "company_info": {
-        "supplier No.": null,
-        "address supplier": "บริษัท เอเอสเอ บ๊อกซ์บอร์ด คอนเทนเนอร์ จำกัด\nASA BOXBOARD CONTAINER COMPANY LIMITED.\n99/1 หมู่ที่ 2 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000",
+        "supplier No.": "MLEP",
+        "address supplier": "บริษัท มาลีกรุ๊ป จำกัด (มหาชน) (สาขาที่00001) \nเลขที่ 26/1 หมู่5 ถนนทางเข้าอำเภอสามพราน ตำบลยายชา อำเภอสามพราน จังหวัดนครปฐม",
         "tax_id": "0107535000079"
     },
     "po_number": "1032056079",
@@ -10,6 +10,12 @@
         {
             "item_number": 1,
             "Receipt Qty": 2800,
+            "Oder Unit": null,
+            "Location": null
+        },
+        {
+            "item_number": 41150001662412,
+            "Receipt Qty": null,
             "Oder Unit": null,
             "Location": null
         }
