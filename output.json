@@ -1,17 +1,17 @@
 {
     "company_info": {
-        "supplier No.": "0745530000251",
-        "address supplier": "99/1 หมู่ที่ 5 ถนนพระรามที่ 2 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000",
-        "tax_id": "0107535000079"
+        "supplier No.": "MLEP",
+        "address supplier": "บริษัท มาลีกรุ๊ป จำกัด (มหาชน) (สาขาที่00001)\nเลขที่ 26/1 หมู่5 ถนนหนทางข้างอำเภอลาดหลุมแก้ว ตำบลบ้ายายชา อำเภอลาดหลุมแก้ว จังหวัดปทุมธานี",
+        "tax_id": "0107553000079"
     },
     "po_number": "1032056079",
-    "payment term": "60",
+    "payment term": "60 วัน",
     "items": [
         {
-            "item_number": 41150001662412,
+            "item_number": 1,
             "Receipt Qty": 2800,
             "Oder Unit": "null",
-            "Location": "null"
+            "Location": null
         }
     ]
 }
