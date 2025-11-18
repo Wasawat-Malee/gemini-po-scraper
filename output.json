@@ -10,8 +10,8 @@
         {
             "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": "EACH",
-            "Location": null
+            "Oder Unit": "null",
+            "Location": "null"
         }
     ]
 }
