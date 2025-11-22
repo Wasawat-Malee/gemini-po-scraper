@@ -1,8 +1,8 @@
 {
     "company_info": {
-        "supplier No.": null,
+        "supplier No.": "0745530000251",
         "address supplier": "บริษัท เอเอสเอ บ๊อกซ์บอร์ด คอนเทนเนอร์ จำกัด\nASA BOXBOARD CONTAINER COMPANY LIMITED.\n99/1 หมู่ที่ 5 ถนนพระรามที่ 2 ต.ท่าทราย อ.เมืองสมุทรสาคร จ.สมุทรสาคร 74000",
-        "tax_id": "0107553000079"
+        "tax_id": "0107535000079"
     },
     "po_number": "1032056079",
     "payment term": "60",
@@ -10,7 +10,7 @@
         {
             "item_number": 1,
             "Receipt Qty": 2800,
-            "Oder Unit": null,
+            "Oder Unit": "ML.ASA",
             "Location": null
         }
     ]
